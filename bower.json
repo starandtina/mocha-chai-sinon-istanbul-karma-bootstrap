@@ -1,0 +1,27 @@
+{
+  "name": "mocha-chai-sinon-istanbul-karma-bootstrap",
+  "version": "0.0.0",
+  "dependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.16.2",
+    "sinon-chai": "~2.4.0"
+  },
+  "authors": [
+    "khalilz <kandmforever@126.com>"
+  ],
+  "keywords": [
+    "mocha",
+    "chai",
+    "sinon"
+  ],
+  "license": "MIT",
+  "homepage": "starandtina.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./bower_components",
+    "test",
+    "tests"
+  ]
+}
