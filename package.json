@@ -22,10 +22,11 @@
     "matchdep": "~0.3.0",
     "karma-jasmine": "~0.1.5",
     "requirejs": "~2.1.9",
-    "karma-sinon": "~1.0.0"
+    "karma-sinon": "~1.0.0",
+    "grunt-cli": "~0.1.13"
   },
   "scripts": {
-    "test": "grunt"
+    "test": "./node_modules/.bin/grunt"
   },
   "description": "Some nice defaults to have for a new front-end project",
   "directories": {
