@@ -4,7 +4,7 @@
 
 This repo contains an example setup for testing your frontend JavaScript code with the tools below, and they have proven to be a great workflow for us so far. 
 
-* [Mocha](http://visionmedia.github.io/mocha): a simple, flexible, fun javascript test framework for node.js & the browser, and support BDD, TDD, QUnit styles
+* [Mocha](http://mochajs.org/): a simple, flexible, fun javascript test framework for node.js & the browser, and support BDD, TDD, QUnit styles
 * [Chai](http://chaijs.com/): a BDD / TDD assertion library for node and the browser that can be delightfully paired with any javascript testing framework
 * [Sinon](http://sinonjs.org/): standalone test spies, stubs and mocks for JavaScript
 No dependencies, works with any unit testing framework
